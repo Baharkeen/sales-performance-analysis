@@ -104,3 +104,9 @@ ORDER BY s.City, TotalSales DESC;
 
 ##### Conclusion
 The consolidated insights reveal that Branch C leads in total sales, demonstrating its superior performance in revenue generation among the branches. The analysis indicates that members engage more frequently with the retail chain than non-members, as seen in the higher number of transactions. However, non-members show slightly lower average spending per transaction. The "Home and lifestyle" product line emerges as the most profitable, suggesting consumer preference and potential areas for inventory expansion. Notably, female customers in Naypyitaw contribute significantly to sales, highlighting geographical and gender-specific purchasing patterns. This comprehensive analysis underscores the importance of targeted strategies for customer engagement, inventory management, and regional marketing to support the retail chain's overall performance.
+
+![Sales Comparison by Gender Across Cities](https://raw.githubusercontent.com/Baharkeen/sales-performance-analysis/main/assets/sales_comparison_by_gender_across_cities.png?raw=True)
+
+![Sales Distribution by Product Line](https://github.com/Baharkeen/sales-performance-analysis/blob/main/assets/sales_distribution_by_product_line.png?raw=True)
+
+![Sales Performance by Branch](https://github.com/Baharkeen/sales-performance-analysis/blob/main/assets/sales_performance_by_branch.png?raw=True)
